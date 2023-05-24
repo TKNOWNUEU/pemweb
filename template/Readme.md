@@ -1,8 +1,8 @@
-UTS Pemrograman Web
+# UTS Pemrograman Web
 
-Teddy Adi kusuma
-20210801149
-Teknik Informatika 2021
+- Teddy Adi kusuma
+- 20210801149
+- Teknik Informatika 2021
 
 
 # Default credentials
